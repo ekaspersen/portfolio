@@ -10,24 +10,24 @@ I am a Frontend/UX Web Developer with 4 years of educational/free-time and clien
 
 ## Skills
 
+#### Developing
+
 -   HTML
--   CSS ~ vanilla/tailwindCSS/SCSS - Worked with bootstrap
+-   SEO optimization
+-   CSS/SCSS
+-   TailwindCSS and bootstrap 3
+-
 -   JavaScript
+-   RestAPI
+-   Node Package Modules (npm)
+-   Vite
+-   Creating/using databases with php/mySql for mySql servers
+
+#### Design
+
+-   Responsive Design
 -   UI/UX design
-
-## Projects
-
-### [Project Name]
-
--   [Brief project description]
--   Technologies used: [List of technologies used in the project]
--   [Link to live project or code repository]
-
-### [Project Name]
-
--   [Brief project description]
--   Technologies used: [List of technologies used in the project]
--   [Link to live project or code repository]
+-   Wireframing and prototyping tools (Figma, open to learn more)
 
 ## Education
 
