@@ -16,7 +16,6 @@ I am a Frontend/UX Web Developer with 4 years of educational/free-time and clien
 -   SEO optimization
 -   CSS/SCSS
 -   TailwindCSS and bootstrap 3
--
 -   JavaScript
 -   RestAPI
 -   Node Package Modules (npm)
